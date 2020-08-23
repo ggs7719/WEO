@@ -226,7 +226,7 @@ h5,
 h6 {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
-    color:#1a1a1a;
+    color:#003C9D;
     margin-bottom: 10px;
 }
 
@@ -356,19 +356,19 @@ Separator
     width:85px;
     height:2px;
     margin:20px 0px;
-    background: #ff6863;
+    background: #003C9D;
 }
 .separator_auto{
     width:85px;
     height:2px;
     margin:20px auto;
-    background: #ff6863;
+    background: #003C9D;
 }
 .separator_small{
     width:30px;
     height:2px;
     margin:20px 0px;
-    background: #ff6863;
+    background: #003C9D;
 }
 
 /*
@@ -398,21 +398,21 @@ Button
     border-radius: 0;
 }
 .btn-default:hover{
-    border-color:#ff6863;
-    background-color: #ff6863;
+    border-color:#003C9D;
+    background-color: #003C9D;
 }
 
 .btn-primary{
     color: #fff;
-    background-color: #ff6863;
+    background-color: #003C9D;
     border:1px solid;
-    border-color: #ff6863;
+    border-color: #003C9D;
     padding: 1rem 2rem;
 }
 .btn-primary:hover{
     background-color: #eee;
     border-color: #eee;
-    color:#ff6863;
+    color:#003C9D;
 }
 
 .btn-success{}
@@ -740,14 +740,14 @@ textarea::-ms-input-placeholder{
 }
 /*heading title all area*/
 .head_title{
-    padding-bottom: 7.143rem;
+    padding-bottom: 5rem;
     overflow: hidden;
 }
 .head_title h2{
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-size:2.286rem;
-    color:#1a1a1a;
+    color:#003C9D;
 }
 .head_title p{
     font-family: 'Raleway', sans-serif;
@@ -1015,14 +1015,14 @@ Nav Menu style
 Home Section style
 ==================*/
 .home{
-    background: url(../images/background/header.jpg) no-repeat bottom center;
-    background-size: cover;
+    background: url(../images/background/header.png) no-repeat center;
+    background-size: 50%;
     position: relative;
 }
 .main_home{
     overflow: hidden;
     padding-top: 300px;
-    padding-bottom: 230px;
+    padding-bottom: 30px;
     position: relative;
     z-index: 1;
 }
@@ -1059,12 +1059,12 @@ About section style
     height: 60px;
     line-height: 60px;
     font-size:1.5rem;
-    background-color: #ff6863;
+    background-color: #003C9D;
     color:#fff;
     display: inline-block;
     text-align: center;
     border-radius: 50%;
-    box-shadow: 0px 0px 0px 6px rgba(255, 104, 99, 0.4);
+    box-shadow: 0px 0px 0px 6px #0066FF;
 
 }
 
